@@ -1,8 +1,8 @@
 def print_hi(name):
     print(f'Hi, {name}')
     print('Привет Гит!')
-    print('Again')
-    print('UFO came and added this line')
+    print('Опять')
+    print('Инопланетянин заменил текст на русский')
 
 
 if __name__ == '__main__':
